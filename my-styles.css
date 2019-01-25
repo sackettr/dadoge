@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+	font-family: helvetica, sans-serif;
+	font-weight: 800;
+
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+}
